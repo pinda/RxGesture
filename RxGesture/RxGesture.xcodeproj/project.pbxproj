@@ -49,7 +49,6 @@
 		87F8F7341E511E8600C3B1BE /* View+RxGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A5177D1E4FED3900A65547 /* View+RxGesture.swift */; };
 		87F8F7371E511E9D00C3B1BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4CC4C4F1DEBACC7009ED835 /* Foundation.framework */; };
 		C556E5A724937DEE006139E1 /* UIHoverGestureRecognizer+RxGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = C556E5A624937DEE006139E1 /* UIHoverGestureRecognizer+RxGesture.swift */; };
-		D08FAC7226F32FF900FF809E /* RxCocoaRuntime.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D08FAC7126F32FF900FF809E /* RxCocoaRuntime.xcframework */; };
 		F4CC4C221DEBA895009ED835 /* RxGesture.h in Headers */ = {isa = PBXBuildFile; fileRef = F4CC4C201DEBA895009ED835 /* RxGesture.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F4CC4C571DEBAF98009ED835 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4CC4C4F1DEBACC7009ED835 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -137,7 +136,6 @@
 				75FDEE10260A920E00F14013 /* RxSwift.xcframework in Frameworks */,
 				75FDEE12260A920E00F14013 /* RxRelay.xcframework in Frameworks */,
 				F4CC4C571DEBAF98009ED835 /* Foundation.framework in Frameworks */,
-				D08FAC7226F32FF900FF809E /* RxCocoaRuntime.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
